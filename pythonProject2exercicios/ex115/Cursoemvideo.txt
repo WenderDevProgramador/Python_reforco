@@ -1,0 +1,9 @@
+Maike;30
+Antonio;30
+Eduado;23
+Marco Antonio;38
+Wender Rodolfo De Queiroz;28
+Nagato;90
+Pain;56
+Vegeta;36
+Manuela;18
