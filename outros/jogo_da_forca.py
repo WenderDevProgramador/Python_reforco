@@ -1,4 +1,4 @@
-pip install pygame
+
 
 import pygame as pg
 import random
