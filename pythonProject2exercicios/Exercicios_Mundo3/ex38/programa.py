@@ -1,5 +1,11 @@
-from ultilidades import preço
+#Dentro do pacote ultilidades que criamos no desafio anterior, temos um módulo chamado dado. Crie uma função chamada leiaDinheiro() que seja capaz de funcionar com a função input(), mas com uma validação de dados para aceitar apenas valores que sejá monetários.
 
-a = 950
-preço.resumo(a,5,3)
 
+print('  ')
+from ultilidades import preço,dados
+
+a = dados.leiaDinheiro('Digite o valor: R$ ')
+preço.resumo(a)
+
+
+print('  ')
